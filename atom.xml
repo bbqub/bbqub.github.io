@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bbqub.github.io</id>
+    <title>松令</title>
+    <updated>2021-06-21T17:22:31.809Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bbqub.github.io"/>
+    <link rel="self" href="https://bbqub.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://bbqub.github.io/images/avatar.png</logo>
+    <icon>https://bbqub.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, 松令</rights>
+    <entry>
+        <title type="html"><![CDATA[『尝试』大型公共场所的人流预测]]></title>
+        <id>https://bbqub.github.io/post/chang-shi-da-xing-gong-gong-chang-suo-de-ren-liu-yu-ce/</id>
+        <link href="https://bbqub.github.io/post/chang-shi-da-xing-gong-gong-chang-suo-de-ren-liu-yu-ce/">
+        </link>
+        <updated>2021-06-21T16:40:10.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>『未完待续』</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新开始的第一篇博客]]></title>
+        <id>https://bbqub.github.io/post/restart/</id>
+        <link href="https://bbqub.github.io/post/restart/">
+        </link>
+        <updated>2021-03-21T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>一切重新开始了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一切重新开始了</p>
+<!--more-->
+<p>换了电脑之后，原先所有的博客都没有保留下来<br>
+恰巧现在已经远离OI，那就让一切重新开始吧！</p>
+<pre><code class="language-cpp">#include&lt;iostream&gt;
+</code></pre>
+]]></content>
+    </entry>
+</feed>
